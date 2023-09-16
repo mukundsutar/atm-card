@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/credit-card-generator/static/css/main.00b218bd.css",
-    "main.js": "/credit-card-generator/static/js/main.4cb13f34.js",
-    "static/media/atm-background-1.jpg": "/credit-card-generator/static/media/atm-background-1.88c4757638aeb81a75af.jpg",
-    "static/media/atm-background-2.jpg": "/credit-card-generator/static/media/atm-background-2.b6107046b644b478aae8.jpg",
-    "static/media/atm-background-3.jpg": "/credit-card-generator/static/media/atm-background-3.6174314d6dc6bfc07a24.jpg",
-    "static/media/hologram.png": "/credit-card-generator/static/media/hologram.04224ea4cd7ca1912902.png",
-    "static/media/emv-chip.png": "/credit-card-generator/static/media/emv-chip.508bb860d8d3a8f76342.png",
-    "index.html": "/credit-card-generator/index.html",
-    "main.00b218bd.css.map": "/credit-card-generator/static/css/main.00b218bd.css.map",
-    "main.4cb13f34.js.map": "/credit-card-generator/static/js/main.4cb13f34.js.map"
+    "main.css": "/atm-card/static/css/main.12ebbc47.css",
+    "main.js": "/atm-card/static/js/main.a2f1e4fb.js",
+    "static/media/atm-background-1.jpg": "/atm-card/static/media/atm-background-1.88c4757638aeb81a75af.jpg",
+    "static/media/atm-background-2.jpg": "/atm-card/static/media/atm-background-2.b6107046b644b478aae8.jpg",
+    "static/media/atm-background-3.jpg": "/atm-card/static/media/atm-background-3.6174314d6dc6bfc07a24.jpg",
+    "static/media/hologram.png": "/atm-card/static/media/hologram.04224ea4cd7ca1912902.png",
+    "static/media/emv-chip.png": "/atm-card/static/media/emv-chip.508bb860d8d3a8f76342.png",
+    "index.html": "/atm-card/index.html",
+    "main.12ebbc47.css.map": "/atm-card/static/css/main.12ebbc47.css.map",
+    "main.a2f1e4fb.js.map": "/atm-card/static/js/main.a2f1e4fb.js.map"
   },
   "entrypoints": [
-    "static/css/main.00b218bd.css",
-    "static/js/main.4cb13f34.js"
+    "static/css/main.12ebbc47.css",
+    "static/js/main.a2f1e4fb.js"
   ]
 }
