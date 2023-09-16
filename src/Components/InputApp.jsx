@@ -168,7 +168,7 @@ export default function InputApp({
 							style={{ textDecoration: "none" }}
 						>
 							<button className="input-button">
-								Choose Background
+								View
 							</button>
 						</NavLink>
 						<NavLink
