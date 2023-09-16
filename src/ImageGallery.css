@@ -1,0 +1,10 @@
+.image-gallery {
+    /* overflow-y: scroll; */
+
+    display: flex;
+    flex-direction: column;
+}
+
+.image-gallery-ele {
+    
+}
