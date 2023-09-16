@@ -19,7 +19,7 @@ export default function App() {
 
 			<Routes>
 				<Route
-					path="/atm-card/"
+					path="/"
 					element={
 						<InputApp
 							inputNumberCallback={setNumber}
