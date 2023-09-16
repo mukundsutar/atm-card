@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/atm-card/static/css/main.12ebbc47.css",
+    "main.js": "/atm-card/static/js/main.7af511e7.js",
+    "static/media/atm-background-1.jpg": "/atm-card/static/media/atm-background-1.88c4757638aeb81a75af.jpg",
+    "static/media/atm-background-2.jpg": "/atm-card/static/media/atm-background-2.b6107046b644b478aae8.jpg",
+    "static/media/atm-background-3.jpg": "/atm-card/static/media/atm-background-3.6174314d6dc6bfc07a24.jpg",
+    "static/media/hologram.png": "/atm-card/static/media/hologram.04224ea4cd7ca1912902.png",
+    "static/media/emv-chip.png": "/atm-card/static/media/emv-chip.508bb860d8d3a8f76342.png",
+    "index.html": "/atm-card/index.html",
+    "main.12ebbc47.css.map": "/atm-card/static/css/main.12ebbc47.css.map",
+    "main.7af511e7.js.map": "/atm-card/static/js/main.7af511e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12ebbc47.css",
+    "static/js/main.7af511e7.js"
+  ]
+}
