@@ -7,7 +7,7 @@ export default function Navbar() {
 			<div className="navbar">
 				<NavLink
 					className="navbar-ele navbar-home"
-					to={"/"}
+					to={"/atm-card"}
 					style={{ textDecoration: "none" }}
 				>
 					Enter Details
