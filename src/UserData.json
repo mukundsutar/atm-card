@@ -1,0 +1,31 @@
+{
+	"id": 3135,
+	"uid": "51adff57-7657-4fae-bf65-18e6ebcda2f4",
+	"password": "DXrqBvxdkz",
+	"first_name": "Horacio",
+	"last_name": "Champlin",
+	"username": "horacio.champlin",
+	"email": "horacio.champlin@email.com",
+	"avatar": "https://robohash.org/quisvelest.png?size=300x300&set=set1",
+	"gender": "Non-binary",
+	"phone_number": "+20 103.284.2547 x7173",
+	"social_insurance_number": "459499687",
+	"date_of_birth": "1986-03-29",
+	"employment": { "title": "Product Producer", "key_skill": "Fast learner" },
+	"address": {
+		"city": "Tiffaneyview",
+		"street_name": "Wiza Manor",
+		"street_address": "695 Terry Island",
+		"zip_code": "82940",
+		"state": "Minnesota",
+		"country": "United States",
+		"coordinates": { "lat": 27.381760283715906, "lng": -167.60621326995525 }
+	},
+	"credit_card": { "cc_number": "5448-3042-4524-1620" },
+	"subscription": {
+		"plan": "Silver",
+		"status": "Blocked",
+		"payment_method": "WeChat Pay",
+		"term": "Monthly"
+	}
+}
